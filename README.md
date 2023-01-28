@@ -2,7 +2,7 @@
 
 App was created with [Create React App](https://github.com/facebook/create-react-app).
 
-I'm still learing React 😄
+Have fun guys 😄
 
 ## How to install
 
